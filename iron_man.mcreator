@@ -1,0 +1,131 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "ArcReactor",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "IronManTab",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "VibraniumIngot",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "VibraniumOre",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "VibraniumSmelt",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "VibraniumBlock",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "VibraniumCraft",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AdamantiumIngot",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AdamantiumBlock",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AdamantiumCrafting",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AdamantiumBlockCrafting",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "ArcReactorCrafting",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.iron_man.vibraniumore": "Vibranium Ore",
+      "itemGroup.tabironmantab": "Iron Man",
+      "item.iron_man.adamantiumingot": "Adamantium Ingot",
+      "item.iron_man.arcreactor": "Arc Reactor",
+      "item.iron_man.vibraniumingot": "Vibranium Ingot",
+      "block.iron_man.vibraniumblock": "Vibranium Block",
+      "block.iron_man.adamantiumblock": "Adamantium Block"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "iron_man",
+    "modName": "Iron Man",
+    "version": "1.0.0",
+    "author": "allan",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "1.14.4",
+    "usesProFeatures": false,
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000105419
+}

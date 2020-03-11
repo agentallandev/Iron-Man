@@ -1,0 +1,11 @@
+{
+  "group": "iron_man",
+  "type": "minecraft:smelting",
+  "experience": 1,
+  "ingredient": {
+    "item": "iron_man:vibraniumore"
+  },
+  "result": {
+    "item": "iron_man:vibraniumingot"
+  }
+}

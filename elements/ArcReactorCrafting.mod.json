@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:ArcReactor"
+    },
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:AdamantiumIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:AdamantiumIngot"
+      },
+      {
+        "value": "CUSTOM:VibraniumBlock"
+      },
+      {
+        "value": "CUSTOM:AdamantiumIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:AdamantiumIngot"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "arcreactorcrafting",
+    "namespace": "mod"
+  }
+}

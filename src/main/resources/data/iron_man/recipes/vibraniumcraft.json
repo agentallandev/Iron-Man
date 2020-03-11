@@ -1,0 +1,42 @@
+{
+  "group": "iron_man",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "iron_man:vibraniumingot"
+    },
+    "1": {
+      "item": "iron_man:vibraniumingot"
+    },
+    "2": {
+      "item": "iron_man:vibraniumingot"
+    },
+    "3": {
+      "item": "iron_man:vibraniumingot"
+    },
+    "4": {
+      "item": "iron_man:vibraniumingot"
+    },
+    "5": {
+      "item": "iron_man:vibraniumingot"
+    },
+    "6": {
+      "item": "iron_man:vibraniumingot"
+    },
+    "7": {
+      "item": "iron_man:vibraniumingot"
+    },
+    "8": {
+      "item": "iron_man:vibraniumingot"
+    }
+  },
+  "result": {
+    "item": "iron_man:vibraniumblock",
+    "count": 1
+  }
+}
